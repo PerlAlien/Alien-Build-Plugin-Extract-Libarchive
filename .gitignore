@@ -1,0 +1,5 @@
+Alien-Build-Plugin-Extract-Libarchive-*
+/.build/
+*.swp
+
+
