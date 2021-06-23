@@ -1,4 +1,4 @@
-# Alien::Build::Plugin::Extract::Libarchive ![linux](https://github.com/PerlAlien/Alien-Build-Plugin-Extract-Libarchive/workflows/linux/badge.svg)
+# Alien::Build::Plugin::Extract::Libarchive ![static](https://github.com/PerlAlien/Alien-Build-Plugin-Extract-Libarchive/workflows/static/badge.svg) ![linux](https://github.com/PerlAlien/Alien-Build-Plugin-Extract-Libarchive/workflows/linux/badge.svg)
 
 Alien::Build plugin to extract a tarball using libarchive
 
