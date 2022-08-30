@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - Compatability with ALIEN_DOWNLOAD_RULE overrides (gh#4)
 
 0.01      2021-06-23 15:57:48 -0600
   - initial version
