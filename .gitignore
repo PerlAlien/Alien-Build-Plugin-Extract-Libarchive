@@ -2,4 +2,7 @@ Alien-Build-Plugin-Extract-Libarchive-*
 /.build/
 *.swp
 
-
+/Alien-Build-Plugin-Extract-Libarchive-*
+/.build
+*.old
+*.orig
